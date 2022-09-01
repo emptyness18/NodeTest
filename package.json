@@ -1,0 +1,25 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "Test dev in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emptyness18/NodeTest.git"
+  },
+  "keywords": [
+    "dev"
+  ],
+  "author": "dcordero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emptyness18/NodeTest/issues"
+  },
+  "homepage": "https://github.com/emptyness18/NodeTest#readme",
+  "dependencies": {
+    "@angular/cli": "^14.2.1"
+  }
+}
